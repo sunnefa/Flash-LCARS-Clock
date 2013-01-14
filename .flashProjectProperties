@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1306186903108</id>
+  <name>LCARSclock</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/shannensekaya/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/shannensekaya/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh%20HD/Users/shannensekaya/Dropbox/School/ActionScript%203/Clock/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="ClockModel.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Clock/models/ClockModel.as</uri>
+    <uri label="clock.fla">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Clock/clock.fla</uri>
+    <uri label="ClockController.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Clock/controllers/ClockController.as</uri>
+    <uri label="ControlsView.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Clock/views/ControlsView.as</uri>
+    <uri label="MainClass.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Clock/MainClass.as</uri>
+    <uri label="AnalogView.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Clock/views/AnalogView.as</uri>
+    <uri label="DigitalView.as">file:///Macintosh HD/Users/shannensekaya/Dropbox/School/ActionScript 3/Clock/views/DigitalView.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
